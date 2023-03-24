@@ -1,0 +1,57 @@
+{
+  "excluded": [],
+  "failed": [],
+  "invalid": [],
+  "passed": [
+    {
+      "describe": "parse_file/1",
+      "file": "/home/sammarxz/Documentos/code/elixir/trilha-rocketseat/modulo-02/ignite-elixir-modulo-02-desafio-02/test/parser_test.exs",
+      "line": 7,
+      "module": "Elixir.GenReport.ParserTest",
+      "test": "test parse_file/1 parses the file"
+    },
+    {
+      "describe": "get_month_name/1",
+      "file": "/home/sammarxz/Documentos/code/elixir/trilha-rocketseat/modulo-02/ignite-elixir-modulo-02-desafio-02/test/month_helper_test.exs",
+      "line": 15,
+      "module": "Elixir.GenReport.MonthHelperTest",
+      "test": "test get_month_name/1 given an invalid param, returns an error message"
+    },
+    {
+      "describe": "get_month_name/1",
+      "file": "/home/sammarxz/Documentos/code/elixir/trilha-rocketseat/modulo-02/ignite-elixir-modulo-02-desafio-02/test/month_helper_test.exs",
+      "line": 7,
+      "module": "Elixir.GenReport.MonthHelperTest",
+      "test": "test get_month_name/1 given a number, returns the proper month name"
+    },
+    {
+      "describe": "build_from_many/1",
+      "file": "/home/sammarxz/Documentos/code/elixir/trilha-rocketseat/modulo-02/ignite-elixir-modulo-02-desafio-02/test/gen_report_test.exs",
+      "line": 25,
+      "module": "Elixir.GenReportTest",
+      "test": "test build_from_many/1 when a file list is provides, builds the report"
+    },
+    {
+      "describe": "build_from_many/1",
+      "file": "/home/sammarxz/Documentos/code/elixir/trilha-rocketseat/modulo-02/ignite-elixir-modulo-02-desafio-02/test/gen_report_test.exs",
+      "line": 31,
+      "module": "Elixir.GenReportTest",
+      "test": "test build_from_many/1 when a list is not passed returns an error"
+    },
+    {
+      "describe": "build/1",
+      "file": "/home/sammarxz/Documentos/code/elixir/trilha-rocketseat/modulo-02/ignite-elixir-modulo-02-desafio-02/test/gen_report_test.exs",
+      "line": 17,
+      "module": "Elixir.GenReportTest",
+      "test": "test build/1 When no filename was given, returns an error"
+    },
+    {
+      "describe": "build/1",
+      "file": "/home/sammarxz/Documentos/code/elixir/trilha-rocketseat/modulo-02/ignite-elixir-modulo-02-desafio-02/test/gen_report_test.exs",
+      "line": 11,
+      "module": "Elixir.GenReportTest",
+      "test": "test build/1 When passing file name return a report"
+    }
+  ],
+  "skiped": []
+}
